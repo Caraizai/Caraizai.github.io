@@ -1,7 +1,6 @@
 ########################################################################################################################
 
 #---------- Code used to download and merge all files needed for fatal accidents ------------------------------------###
-#---------- Then, the filtering criteria are defined below to finish the database construction ----------------------###
 #---------- written by Carlos Andés Araiza Iturria, for questions contact carlos_araiza02@hotmail.com --------------####
 
 ########################################################################################################################
