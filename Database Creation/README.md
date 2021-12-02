@@ -1,4 +1,34 @@
-The script was written with Python and to simplify its readability it was split into 4 different files available here. The files do the following:
+This README.md file was generated on 2021-12-02 by Carlos Andrés Araiza Iturria
+
+# GENERAL INFORMATION
+
+A consolidated database of police-reported motor vehicle traffic accidents in the United States for actuarial applications.
+
+The database can be directly accessed here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5748416.svg)](https://doi.org/10.5281/zenodo.5748416)
+
+Author Information
+
+    A. Author
+		Name: Carlos Andrés Araiza Iturria
+		Email: caraizai@uwaterloo.ca
+    
+	  B. Co-author
+		Name: Mary Hardy
+		Email: mary.hardy@uwaterloo.ca
+
+	  C. Co-author
+		Name: Paul Marriott
+		Email: pmarriott@uwaterloo.ca
+    
+    Institution: University of Waterloo
+		Address: 200 University Ave W, Waterloo, ON N2L 3G1
+
+
+Funding granted by the Natural Sciences and Engineering Research Council of Canada. Hardy: RGPIN-2018-03754, Marriott: RGPIN-2020-04015.
+
+# DATA & FILE OVERVIEW
+
+The script to create the database was written with Python and to simplify its readability it was split into 4 different files available. The files do the following:
 
   [1 FARS_GESCRSS_Construction.py](https://github.com/Caraizai/Caraizai.github.io/blob/A-CONSOLIDATED-DATABASE-OF-POLICE-REPORTED-MOTOR-VEHICLE-TRAFFIC-ACCIDENTS-IN-THE-UNITED-STATES-FOR-ACTUARIAL-APPLICATIONS/Database%20Creation/1%20FARS_GESCRSS_Construction.py) : Download the annual NHSTA files and merge them into two databases, one for GES/CRSS and another one for FARS.
 
